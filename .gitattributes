@@ -1,4 +1,4 @@
-*.rmd linguist-detectable=true  
+*.R linguist-detectable=true  
 *.ipynb linguist-detectable=false
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
